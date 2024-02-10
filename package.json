@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.0",
+    "react-redux": "^9.1.0",
+    "redux-persist": "^6.0.0"
+  }
+}
